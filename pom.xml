@@ -68,11 +68,11 @@
             <artifactId>springfox-swagger-ui</artifactId>
             <version>3.0.0</version>
         </dependency>
-        <!--<dependency>
+        <dependency>
             <groupId>com.mycompany</groupId>
             <artifactId>MyWebAppDemo</artifactId>
             <version>0.0.1-SNAPSHOT</version>
-        </dependency>-->
+        </dependency>
     </dependencies>
 
     <build>
